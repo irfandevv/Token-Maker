@@ -21,16 +21,13 @@ Open the Truffle console
 npm run console
 ```
 #### Compile
-
 ```bash
 npm run compile
 ```
 #### Test
-
 ```bash
 npm run test
 ```
-
 ### Usage (using Buidler)
 
 Open the Buidler console
