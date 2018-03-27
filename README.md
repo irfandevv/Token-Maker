@@ -20,13 +20,11 @@ Open the Truffle console
 ```bash
 npm run console
 ```
-
 #### Compile
 
 ```bash
 npm run compile
 ```
-
 #### Test
 
 ```bash
@@ -40,7 +38,6 @@ Open the Buidler console
 ```bash
 npm run buidler:console
 ```
-
 #### Compile
 
 ```bash
